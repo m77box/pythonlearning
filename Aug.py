@@ -61,6 +61,3 @@ def sum_of_evens(lst):
 
     print(group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
     # Expected: [['eat', 'tea', 'ate'], ['tan', 'nat'], ['bat']]
-
-
-lst =[1,2,3,4,5,6,7,8,9,10,11,20]
