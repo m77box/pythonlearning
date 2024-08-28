@@ -1,6 +1,12 @@
-def sum_of_evens(lst):
-    # retrun sum of even numbers
+# Question 2: Matrix Diagonal Sum
+def diagonal_sum(matrix):
+    # Your code goes here
+    # Calculate the primary diagonal sum
+    # Calculate the secondary diagonal sum
+    # Return the total sum
+    pass
 
 
+print(diagonal_sum([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))
 
-lst =[1,2,3,4,5,6,7,8,9,10,11,20]
+# Expected: 30 (1 + 5 + 9 + 3 + 5 + 7)
